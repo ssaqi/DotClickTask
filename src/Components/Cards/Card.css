@@ -1,0 +1,68 @@
+.cardMain{
+
+     display: flex;
+     flex-direction: row;
+}
+
+
+.card1{
+
+    width: 288px;
+    height: 210px;
+    background-color: rgb(226, 227, 228);
+    margin: 5px;
+    border-radius: 20px;
+    border: solid 1px #aba9a9;
+}
+
+.dialogue{
+
+     width: 288px;
+     height: 100px;
+     background-color:  rgb(226, 227, 228);
+     margin-top: 30px;
+     border-radius: 20px;
+     border: solid 1px #aba9a9;
+}
+
+.p{
+
+    margin: 5px;
+}
+
+.span{
+
+    margin: 10px;
+}
+
+.btn{
+
+    width: 120px;
+    height: 40px;
+    background-color: rgb(7, 139, 40);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+
+.head{
+
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(7, 139, 40) ;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+
+.head1{
+
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(7, 139, 40) ;
+    font-weight: 600;
+    font-size: 29px;
+}

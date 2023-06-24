@@ -1,0 +1,79 @@
+.hospital{
+
+    width: 900px;
+    height: 200px;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.detail{
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.box{
+
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    margin: 19px
+}
+
+.line{
+    width: 1px;
+    height: 60px;
+    background-color: gray;
+    margin-top: 30px;
+    
+}
+
+
+.name{
+
+    font-size: 24;
+    font-weight: 600;
+    margin:20px;
+    color:  rgb(94, 222, 100)
+}
+.tag{
+
+    font-size: 12px;
+    color: gray;
+}
+
+.tabs1{
+
+    width: 800px;
+    height: 50px;
+    background-color: rgb(252, 254, 255);
+    margin: 10px;
+    margin-top: -10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    /* border: solid 1px #000; */
+    
+}
+
+.tabC{
+
+     width: 600px;
+     height: 40px;
+     background-color:  rgb(12, 148, 19);
+     border-radius: 20px 20px 20px 20px;
+     /* margin: 5px; */
+     border: solid 1px #000;
+
+}
+
+
+
+.name2{
+
+    font-size: 24;
+    font-weight: 440;
+    margin:10px;
+    color:  rgb(252, 251, 251)
+}
